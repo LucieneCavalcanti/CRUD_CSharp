@@ -1,0 +1,16 @@
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\bin\Debug\net6.0-windows\CRUDExemplo.exe
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\bin\Debug\net6.0-windows\CRUDExemplo.deps.json
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\bin\Debug\net6.0-windows\CRUDExemplo.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\bin\Debug\net6.0-windows\CRUDExemplo.dll
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\bin\Debug\net6.0-windows\CRUDExemplo.pdb
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.Form1.resources
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.csproj.GenerateResource.cache
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.dll
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\refint\CRUDExemplo.dll
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.pdb
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\CRUDExemplo.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\CRUDExemplo\obj\Debug\net6.0-windows\ref\CRUDExemplo.dll
