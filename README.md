@@ -1,7 +1,7 @@
 # CRUDs_CSharp
 Projeto de CRUD utilizando C# e MySQL
 
-# Introdução (ProjetoTelas)
+# Introdução (ProjetoTelaComBancoV1)
 Este projeto foi desenvolvido para as aulas de C# do IFSP, curso Técnico em Informática.
 
 Ao executar o projeto vemos a janela principal com um menu:
